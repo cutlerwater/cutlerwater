@@ -1,4 +1,4 @@
-![I am a Javascript Web Developer](https://user-images.githubusercontent.com/68158625/111168688-5c5a6400-85b3-11eb-8617-0ddf29a278f9.jpg)
+![I am a Javascript Web Developer](https://github.com/cutlerwater/cutlerwater/blob/main/orb.png)
 
 ### Hi there 👋, I'm Garrett Cutler.  I live in the Annapolis, MD area and I currently work for Planet Technologies, an outstanding partner with Microsoft.
 
