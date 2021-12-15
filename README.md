@@ -6,13 +6,13 @@ I am Self-taught web developer and I always aspire to learn new things. I love b
 
 #### I am a Javascript Web Developer, a SharePoint and Cloud consultant. 
 
-- 🔭 Open for Job Opportunities. 
+- 🔭 I might be open for Job Opportunities. 
 - 🌱 I’m currently building NodeJs, ThreeJS, NextJS, ReactJs projects.
 - 👯 I’m looking to collaborate with other Javascript web developers.
-- 🥅 2021 Goals: Contribute to an Open Source project.
-- 💬 Ask me about: NodeJs, ReactJs, Cigars.  
+- 🥅 2022 Goals: Accelerate my web development skills and build up my youtube and github channel and profile, respectively.
+- 💬 Ask me about: NodeJs, ReactJs, SharePoint, The Cloud ☁, Cigars, and Politics.  
 - 🕸 Interests: Web Development 💻, Cybersecurity 😎, Cigars 🚬, and Golf ⛳.
-- ⚡ Fun fact: On Mars, sunsets are blue.
+- ⚡ Fun fact: On Mars 🌅, sunsets are blue.
       
 ### Connect with me 🌎
 
